@@ -1,0 +1,21 @@
+{
+  "name": "FlickWatcher",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makky3939/FlickWatcher.git"
+  },
+  "author": "Makky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makky3939/FlickWatcher/issues"
+  },
+  "homepage": "https://github.com/makky3939/FlickWatcher",
+  "dependencies": {
+  }
+}
