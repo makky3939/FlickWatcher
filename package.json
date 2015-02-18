@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/makky3939/FlickWatcher",
   "dependencies": {
+    "gulp": "^3.8.11",
+    "webpack": "^1.5.3"
   }
 }
